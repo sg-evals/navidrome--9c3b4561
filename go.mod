@@ -1,6 +1,6 @@
 module github.com/navidrome/navidrome
 
-go 1.23.2
+go 1.24.0
 
 require (
 	github.com/Masterminds/squirrel v1.5.4
@@ -47,9 +47,9 @@ require (
 	github.com/unrolled/secure v1.16.0
 	github.com/xrash/smetrics v0.0.0-20240521201337-686a1a2994c1
 	golang.org/x/exp v0.0.0-20241009180824-f66d83c29e7c
-	golang.org/x/image v0.21.0
-	golang.org/x/sync v0.8.0
-	golang.org/x/text v0.19.0
+	golang.org/x/image v0.35.0
+	golang.org/x/sync v0.19.0
+	golang.org/x/text v0.33.0
 	golang.org/x/time v0.7.0
 	gopkg.in/yaml.v3 v3.0.1
 )
@@ -99,10 +99,10 @@ require (
 	github.com/stretchr/objx v0.5.2 // indirect
 	github.com/subosito/gotenv v1.6.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
-	golang.org/x/crypto v0.28.0 // indirect
-	golang.org/x/net v0.30.0 // indirect
-	golang.org/x/sys v0.26.0 // indirect
-	golang.org/x/tools v0.26.0 // indirect
+	golang.org/x/crypto v0.46.0 // indirect
+	golang.org/x/net v0.48.0 // indirect
+	golang.org/x/sys v0.39.0 // indirect
+	golang.org/x/tools v0.40.0 // indirect
 	google.golang.org/protobuf v1.34.2 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/natefinch/npipe.v2 v2.0.0-20160621034901-c1b8fa8bdcce // indirect
