@@ -1,6 +1,6 @@
 module github.com/navidrome/navidrome
 
-go 1.23.2
+go 1.24.0
 
 require (
 	github.com/Masterminds/squirrel v1.5.4
@@ -48,7 +48,7 @@ require (
 	github.com/xrash/smetrics v0.0.0-20240521201337-686a1a2994c1
 	golang.org/x/exp v0.0.0-20241009180824-f66d83c29e7c
 	golang.org/x/image v0.21.0
-	golang.org/x/sync v0.8.0
+	golang.org/x/sync v0.19.0
 	golang.org/x/text v0.19.0
 	golang.org/x/time v0.7.0
 	gopkg.in/yaml.v3 v3.0.1
